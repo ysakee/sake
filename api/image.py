@@ -52,7 +52,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://i.pinimg.com/1200x/30/66/b1/3066b18fbb5757089bcfe86525c335b7.jpg" # Link to the webpage to redirect to 
+        "page": "https://www.arbeitsagentur.de/jobsuche/" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
